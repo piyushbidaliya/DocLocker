@@ -17,7 +17,7 @@ Tailwind CSS: For styling the user interface.
 
 Setup and Installation
 Clone the repository:
-git clone https://github.com/yourusername/react-firebase-dashboard.git
+git clone https://github.com/piyushbidaliya/DocLocker.git
 cd react-firebase-dashboard
 Install dependencies:
 npm install
